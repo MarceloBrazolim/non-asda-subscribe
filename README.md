@@ -1,2 +1,1 @@
-# non-asda-subscribe
-http://non-asda-subscribe.ga/
+This is supposed to be a internal joke part 2, don't interpret this too much
